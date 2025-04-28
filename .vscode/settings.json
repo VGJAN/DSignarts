@@ -1,9 +1,6 @@
 {
     "cSpell.words": [
-        "Gowsaljan",
-        "Vimalaratnam"
-    ],
-    "cSpell.ignoreWords": [
         "D'Signarts"
-    ]
+    ],
+    "livePreview.defaultPreviewPath": "/index.html"
 }
